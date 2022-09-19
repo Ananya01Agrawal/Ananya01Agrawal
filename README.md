@@ -37,12 +37,13 @@
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hacker123shiva/count.svg" />
+  <img src="https://profile-counter.glitch.me/ananya01agrawal/count.svg" />
 </p>
 
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya01agrawal&show_icons=true&locale=en" alt="ananya01agrawal" /></p>
+<a href="https://github.com/ananya01agrawal/ananya01agrawal"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya01agrawal&" alt="ananya01agrawal" /></p>
