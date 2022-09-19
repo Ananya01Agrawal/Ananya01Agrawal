@@ -35,6 +35,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya01agrawal&show_icons=true&locale=en&layout=compact" alt="ananya01agrawal" /></p>
 
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/hacker123shiva/count.svg" />
+</p>
+
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya01agrawal&show_icons=true&locale=en" alt="ananya01agrawal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya01agrawal&" alt="ananya01agrawal" /></p>
