@@ -44,6 +44,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya01agrawal&show_icons=true&locale=en" alt="ananya01agrawal" /></p>
-<a href="https://github.com/ananya01agrawal/ananya01agrawal"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya01agrawal&" alt="ananya01agrawal" /></p>
