@@ -5,6 +5,11 @@
 <h3 align="center">Hello. I'm Ananya,  pursuing B.Tech in computer science engineering from GLA University Mathura. I am a passionate self-learner and an open source enthusiast. I love exploring and building projects using various technologies. I conduct and love to participate in workshops, events, and collaborative programs in science, innovation, management, entrepreneurship, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya01agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ananya01agrawal" /> </p>
+<p align="center">
+<a href="https://github.com/Ananya01Agrawal/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ananya01Agrawal&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananya01Agrawal&theme=onedark" alt="Ananya01Agrawal" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
