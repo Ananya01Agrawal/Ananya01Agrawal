@@ -55,4 +55,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ananya01Agrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya01agrawal&" alt="ananya01agrawal" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya01Agrawal&theme=tokyonight" />
+</p>
