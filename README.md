@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ananya-agrawal-9727b2230/](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
 
 - ⚡ Fun fact **I think I am Funny**
-<a href="https://app.daily.dev/ananya_unique01"><img src="https://api.daily.dev/devcards/a1b963c5b93c4028a15e7325487f4ec6.png?r=zmf" width="400" alt="Ananya Agrawal's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
