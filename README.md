@@ -50,9 +50,10 @@
 
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <h2 align="center">
+[![@Ananya01Agrawal Holopin board](https://holopin.io/api/user/board?user=Ananya01Agrawal)](https://holopin.io/Ananya01Agrawal)
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-[![@unique_ananya's Holopin board](https://holopin.io/api/user/board?user=unique_ananya)](https://holopin.io/@unique_ananya)
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ananya01Agrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 
 <p align="center">
