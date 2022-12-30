@@ -35,13 +35,11 @@
 
 
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me  </h2>
-<p align="left">
-<a href="https://linkedin.com/in/ananya-agrawal-9727b2230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-agrawal-9727b2230" height="30" width="40" /></a>
-<a href="https://instagram.com/ananyaagrawal0190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananyaagrawal0190" height="30" width="40" /></a>
+<a href="https://github.com/Ananya01Agrawal"><img src="https://img.shields.io/badge/-Ananya01Agrawl-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/ananya-agrawal-9727b2230//"><img src="https://img.shields.io/badge/-Ananya01Agrawal-blue?logo=linkedin&style=flat-square"></a>
 
-<a href="https://www.hackerrank.com/ananya_agrawal_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ananya_agrawal_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ananyaagrawal073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananyaagrawal073" height="30" width="40" /></a>
-<a href="https://discord.gg/2493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2493" height="30" width="40" /></a>
+<a href="mailto:ananyaagrawal073@gmail.com"><img src="https://img.shields.io/badge/-ananyaagrawal@gmail.com-black?logo=gmail&style=flat-square"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
