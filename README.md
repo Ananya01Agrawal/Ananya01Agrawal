@@ -102,10 +102,7 @@
   <img src="https://profile-counter.glitch.me/ananya01agrawal/count.svg" />
 </p>
 
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<h2 align="center">
-
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+My Github Stats<center><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></center>
 </h2>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ananya01Agrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
