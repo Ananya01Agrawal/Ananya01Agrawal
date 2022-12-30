@@ -34,13 +34,13 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-
+<!--
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me  </h2>
 <a href="https://github.com/Ananya01Agrawal"><img src="https://img.shields.io/badge/-Ananya01Agrawl-black?logo=github&style=flat-square"/></a>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananya.agrawal_cs21@gla.ac.in)](mailto:ananya.agrawal_cs21@gla.ac.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-agrawal-9727b2230/)](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Ananya Agrawal#2493)
-</p>
+</p>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
