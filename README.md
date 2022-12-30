@@ -16,8 +16,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Ananya01Agrawal&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananya01Agrawal&theme=onedark" alt="Ananya01Agrawal" /></a> </p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🔭 I’m currently working on **Web Developments Projects.**
 
