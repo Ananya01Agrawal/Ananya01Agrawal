@@ -95,7 +95,7 @@
 
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya01agrawal&show_icons=true&locale=en&layout=compact" alt="ananya01agrawal" /></p>
+<p><center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya01agrawal&show_icons=true&locale=en&layout=compact" alt="ananya01agrawal" /></center></p>
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
