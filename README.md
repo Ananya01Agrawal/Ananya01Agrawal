@@ -17,7 +17,7 @@ Productivity Stats📈:
  <img src="https://activity-graph.herokuapp.com/graph?username=Ananya01Agrawal&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>-->
 </p>
- 🏆 Github Trophies:
+<b> 🏆 Github Trophies:</b>
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananya01Agrawal&row=1&column=-1&theme=gruvbox" alt="Ananya01Agrawal" /></a> </div>
 
 
