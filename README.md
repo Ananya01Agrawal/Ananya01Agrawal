@@ -132,6 +132,18 @@ My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya01Agrawal&theme=tokyonight" />
 </p>
+## 💹 Contribution Graph:
+
+<div align = "center">
+  
+![][snake] <br> ![][graph]
+
+</div>
+
+<img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<h2 align="center">
+<p align="center"><img width="150%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
 <!----------------------------------{ language badges }--------------------------------->
 
 [c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
