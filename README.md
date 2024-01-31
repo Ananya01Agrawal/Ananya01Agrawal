@@ -30,19 +30,18 @@ Productivity Stats📈:
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🔭 I’m currently working on **Web Developments Projects.**
+- 🔭 I’m currently working on **Full Stack Projects.**
 
 - 🌱 I’m currently learning **competitive coding,DSA and Web Development**
 
 - 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
-- 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL**
+- 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL,NodeJs, ExpressJs,MongoDb, React**
 
 - 📫 How to reach me **ananyaagrawal073@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ananya-agrawal-9727b2230/](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
 
-- ⚡ Fun fact **I think I am Funny**
 
 <!--
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me  </h2>
