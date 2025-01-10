@@ -30,11 +30,6 @@ Productivity Stats📈:
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🔭 I’m currently working on **Full Stack Projects.**
-
-- 🌱 I’m currently learning **competitive coding,DSA and Web Development**
-
-- 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
 - 📫 How to reach me **ananyaagrawal073@gmail.com**
 
