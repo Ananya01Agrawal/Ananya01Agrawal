@@ -36,8 +36,6 @@ Productivity Stats📈:
 
 - 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
-- 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL,NodeJs, ExpressJs,MongoDb, React**
-
 - 📫 How to reach me **ananyaagrawal073@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ananya-agrawal-9727b2230/](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
