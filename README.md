@@ -51,9 +51,9 @@ Productivity Stats📈:
 <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
 
-![][c]  ![][java] ![][python] <br>
-![][flutter] ![][html] ![][css] ![][javascript] <br>
- ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
+  ![][java] ![][python] <br>
+ ![][html] ![][css] ![][javascript] <br>
+ ![][mysql]  ![][gcp]  ![][kubernetes] <br>
 ![][git] ![][github] ![][markdown]<br>
 </div><br>
 
